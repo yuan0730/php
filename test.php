@@ -1,1 +1,2 @@
-echo('test_php');
+<?php
+echo('ssssssssss');
